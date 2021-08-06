@@ -1,0 +1,15 @@
+/* #footer_rizqi.m,{
+    padding=10px;
+    text=center;
+    color & background= red;
+} */
+#footer_judin{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(255, 169, 158);
+}
+#footer_sasa{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(59, 83, 73);
+}
