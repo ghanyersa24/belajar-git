@@ -1,11 +1,11 @@
 footer {
-  padding: 20px;
+  padding: 10px;
   text-align: center;
-  background-color: chocolate;
-  color: aliceblue;
+  background-color: black;
+  color: white;
 }
 
-#menu li{
+#menu li {
   display: inline;
   margin-right: 10px;
 }
