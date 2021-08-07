@@ -1,11 +1,18 @@
 footer {
-  padding: 20px;
-  text-align: center;
-  background-color: chocolate;
-  color: aliceblue;
+   padding: 20px;
+   text-align: center;
+   background-color: chocolate;
+   color: aliceblue;
 }
 
-#menu li{
-  display: inline;
-  margin-right: 10px;
+#menu li {
+   display: inline;
+   margin-right: 10px;
+}
+
+#catur {
+   padding: 20px;
+   text-align: center;
+   background-color: yellow;
+   color: aliceblue;
 }
